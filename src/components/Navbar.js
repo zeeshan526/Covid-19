@@ -21,7 +21,7 @@ const useStyles = makeStyles((theme) => ({
   title: {
    textDecoration: 'none',
   //  margin:'10px',
-   marginLeft: '20px',
+   marginLeft: '10px',
 
   //  textalign :'center'
    

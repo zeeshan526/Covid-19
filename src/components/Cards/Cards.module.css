@@ -4,6 +4,7 @@
 }
 .card{
     margin: 0 5px !important;
+    overflow: hidden;
 } 
 .infected{
     border-bottom: 10px solid rgb(0,0,255,0.5);

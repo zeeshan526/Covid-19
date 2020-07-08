@@ -4,7 +4,7 @@ function Prevention() {
   return (
     <div  >
     <h1 style={{color:'Green', textAlign:'center'}}>Preventions From CoronaVirus</h1>
-    <center><img  src={image} alt="COVID-19" width='400px' height='200px' /></center>
+    <center><img  src={image} alt="COVID-19" width='340px' height='100px' /></center>
     
       <h4 style={{marginLeft:'10px'}}>To prevent infection and to slow transmission of COVID-19, do the following:</h4>
 
