@@ -28,7 +28,7 @@ export default function CenteredGrid() {
         <Grid item xs={12}>
           <Paper className={classes.paper}>&copy; Developed by Zeeshan Malik 
           <div style={{float:'right', margin:'-15px', marginRight:'20px'}}>
-          <span style={{marginRight:'20px'}}>Follow on</span><a href="https://www.facebook.com/zeshanali.zeshanali.735">
+          <a href="https://www.facebook.com/zeshanali.zeshanali.735">
           <img  src={image} alt="Facebook" width='20px' height='20px' /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="https://github.com/zeeshan526/Covid-19"><img  src={image1} alt="Github" width='20px' height='20px' /></a>
           </div></Paper>
