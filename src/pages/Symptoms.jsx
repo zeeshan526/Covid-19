@@ -4,7 +4,7 @@ function Symptoms() {
     return (
         <>
         <h1 style={{color:'red', textAlign:'center'}}>Symptoms Of CoronaVirus</h1>
-        <center><img  src={image} alt="COVID-19" width='340px' height='100px' /></center>
+        <center><img  src={image} alt="COVID-19" width='340px' height='140px' overflow='hidden' /></center>
            <div> <h4  style={{ marginLeft:'10px'}} >COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.</h4></div >
 <li   style={{color:'Green', marginLeft:'10px'}}>
 Most common symptoms:

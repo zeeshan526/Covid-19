@@ -44,7 +44,7 @@ export default function ButtonAppBar() {
           <Link to="/Symptoms" style={{color: 'white', textDecoration: 'none' }}>Symptoms</Link>
           </Typography>
           <Typography variant="h6" className={classes.title}>
-          <Link to="/Prevention" style={{color: 'white', textDecoration: 'none'}}>Prevention</Link>
+          <Link to="/Prevention" style={{color: 'white', textDecoration: 'none'}}>Preventions</Link>
           </Typography>
           
         </Toolbar>
