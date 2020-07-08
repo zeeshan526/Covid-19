@@ -34,7 +34,7 @@ class Home extends React.Component{
       <>
      
       <div  className={styles.container}>
-      <img  src={image} alt="COVID-19" width='370px' height='100px'/>
+      <img  src={image} alt="COVID-19" width='340px' height='100px'/>
          <Cards data={data}/>
          <CountryPicker handleCountryChange={this.handleCountryChange} />
         <Charts data={data} country={country} /> 
